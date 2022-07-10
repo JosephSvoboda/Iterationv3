@@ -1,0 +1,15 @@
+C:\Users\josep\OneDrive\Desktop\Repos\Methods3\Methods3\bin\Debug\net6.0\Methods3.exe
+C:\Users\josep\OneDrive\Desktop\Repos\Methods3\Methods3\bin\Debug\net6.0\Methods3.deps.json
+C:\Users\josep\OneDrive\Desktop\Repos\Methods3\Methods3\bin\Debug\net6.0\Methods3.runtimeconfig.json
+C:\Users\josep\OneDrive\Desktop\Repos\Methods3\Methods3\bin\Debug\net6.0\Methods3.dll
+C:\Users\josep\OneDrive\Desktop\Repos\Methods3\Methods3\bin\Debug\net6.0\Methods3.pdb
+C:\Users\josep\OneDrive\Desktop\Repos\Methods3\Methods3\obj\Debug\net6.0\Methods3.csproj.AssemblyReference.cache
+C:\Users\josep\OneDrive\Desktop\Repos\Methods3\Methods3\obj\Debug\net6.0\Methods3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josep\OneDrive\Desktop\Repos\Methods3\Methods3\obj\Debug\net6.0\Methods3.AssemblyInfoInputs.cache
+C:\Users\josep\OneDrive\Desktop\Repos\Methods3\Methods3\obj\Debug\net6.0\Methods3.AssemblyInfo.cs
+C:\Users\josep\OneDrive\Desktop\Repos\Methods3\Methods3\obj\Debug\net6.0\Methods3.csproj.CoreCompileInputs.cache
+C:\Users\josep\OneDrive\Desktop\Repos\Methods3\Methods3\obj\Debug\net6.0\Methods3.dll
+C:\Users\josep\OneDrive\Desktop\Repos\Methods3\Methods3\obj\Debug\net6.0\refint\Methods3.dll
+C:\Users\josep\OneDrive\Desktop\Repos\Methods3\Methods3\obj\Debug\net6.0\Methods3.pdb
+C:\Users\josep\OneDrive\Desktop\Repos\Methods3\Methods3\obj\Debug\net6.0\Methods3.genruntimeconfig.cache
+C:\Users\josep\OneDrive\Desktop\Repos\Methods3\Methods3\obj\Debug\net6.0\ref\Methods3.dll
